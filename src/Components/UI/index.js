@@ -15,8 +15,9 @@ export const Box = styled.div`
   width: 48%;
 
   @media (max-width: 800px) {
-      width: 95%;
-      margin: 5px;
+    width: 95%;
+    margin: 5px;
+  }
 `;
 
 export const Btn = styled.button`
