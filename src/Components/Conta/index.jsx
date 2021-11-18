@@ -6,7 +6,7 @@ import dinheiro from "../../assets/images/dinheiro.svg";
 import { Icone, IconeTema, Box, Btn, Detalhe, Saldo } from "../UI";
 
 const IconeMargin= styled(Icone)`
-  marginTop: 2px;
+  margin-Top: 2px;
 `
 
 const Conta = () => {
